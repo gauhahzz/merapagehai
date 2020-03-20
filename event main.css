@@ -1,0 +1,91 @@
+*{
+    margin:0;padding:0;
+}
+
+.we-do{
+background-color: chartreuse;
+    padding-bottom:5vh;
+    
+   
+}
+.SHIKSHA{
+    position: absolute;right:0;top:3vh;
+}
+.maincontent li
+{background-color: aliceblue;
+padding-top: 1vh;
+padding-bottom: 1vh;
+padding-left: 2vh;    padding-right: 5vh; 
+
+    border-top-left-radius:45%;
+    border-bottom-left-radius:45%;
+    font-size:4vh ;
+    color:white;
+   font-family: cursive;
+   border: 5px solid white;
+  border-right:none;
+   box-shadow: 3px 3px 13px rgba(0, 0, 0, 0.733);
+}
+.maincontent .shiska1{
+    background-color:violet;
+}
+.maincontent .shiska2{
+    background-color: indigo;
+}.maincontent .shiska3{
+    background-color: blue;
+}.maincontent .shiska4{
+    background-color: green;
+}.maincontent .shiska5{
+    background-color: yellow;
+}.maincontent .shiska6{
+    background-color: orangered;
+}.maincontent .shiska7{
+    background-color: red;
+}
+
+.maincontent
+{position: relative;
+    top:15vh;
+    margin-bottom:20vh;
+height:75vh;
+
+background-color: white;
+}
+.pastevent{
+    position:relative;
+    margin-left: auto;margin-right:auto;
+    height:80vh;
+   width:70%;
+ 
+   
+        
+}
+.yes1{
+    height:32vh;width:40vh;
+}
+.yes2{
+    height:42vh;width:50vh;
+}
+.yes3{
+    height:32vh;width:40vh;
+}
+.yes4{
+    height:32vh;width:40vh;
+}
+.yes5{
+    height:32vh;width:40vh;
+}
+.yes6{
+    height:32vh;width:40vh;
+}
+
+.card-title{
+    
+}
+marquee{
+    background-color: black;color:white;
+}
+.pastevent{
+    display:inline-flex;
+    padding: 0;,margin-bottom:0;
+}
